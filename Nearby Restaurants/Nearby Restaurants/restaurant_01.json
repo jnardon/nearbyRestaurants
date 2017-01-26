@@ -1,0 +1,17 @@
+{
+    "id":1,
+    "name":"outback",
+    "avaragePrice":30,
+    "description":"Outback Steakhouse is an Australian-themed American casual dining restaurant chain, serving American cuisine, based in Tampa, Florida, with almost 1,000 locations in 23 countries throughout North and South America, Europe, Asia, and Australia. It was founded in February 1988 in Tampa by Bob Basham, Chris T. Sullivan, Trudy Cooper, and Tim Gannon, and it was owned and operated in the United States by OSI Restaurant Partners until it was acquired by Bloomin' Brands, and by other franchise and venture agreements internationally.",
+    "briefDescription":"We are an Australian-inspired steakhouse restaurant beloved worldwide.",
+    "defaultPhoto":"https://lh6.googleusercontent.com/-e-3mmMa-bqA/AAAAAAAAAAI/AAAAAAAACFI/qpqLdECO9t8/s0-c-k-no-ns/photo.jpg",
+    "todayVotes":2,
+    "isWinner":false,
+    "chosenThisWeek": false,
+    "location":{
+        "cityName":"Porto Alegre",
+        "subLocality":"São João",
+        "latitude":15.2,
+        "longitude":17.6
+    }
+}

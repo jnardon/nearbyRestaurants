@@ -1,0 +1,17 @@
+{
+    "id":4,
+    "name":"starbucks",
+    "avaragePrice":30,
+    "briefDescription":"Is an American coffee company and coffeehouse chain.",
+    "description":"Starbucks Corporation is an American coffee company and coffeehouse chain. Starbucks was founded in Seattle, Washington in 1971. As of November 2016 it operates 23,768 locations worldwide, including 13,107 (+170) in the United States, 2,204 (+86) in China, 1,418 (-12) in Canada, 1,160 (+2) in Japan and 872 in South Korea (bumping United Kingdom from 5th place) (Differences reflect growth since Jan 8, 2016)",
+    "defaultPhoto":"https://lh4.googleusercontent.com/-IpBltZ2knJs/AAAAAAAAAAI/AAAAAAAAilc/UUnfkQDNLkg/s0-c-k-no-ns/photo.jpg",
+    "todayVotes":0,
+    "isWinner":false,
+    "chosenThisWeek": true,
+    "location":{
+        "cityName":"Porto Alegre",
+        "subLocality":"Bom fim",
+        "latitude":15.2,
+        "longitude":17.6
+    }
+}

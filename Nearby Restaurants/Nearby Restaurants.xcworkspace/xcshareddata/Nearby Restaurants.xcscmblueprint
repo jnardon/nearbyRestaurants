@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "3240AD0BD95C214F8146591F0DD25C6B66E7AD06",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "78BE0C603C773CF889A4702765C464B5CFE2B3B7" : 0,
+    "3240AD0BD95C214F8146591F0DD25C6B66E7AD06" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "194C1423-9300-4401-AFA0-3F75227219AE",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "78BE0C603C773CF889A4702765C464B5CFE2B3B7" : "iOS\/enjoei-ios\/",
+    "3240AD0BD95C214F8146591F0DD25C6B66E7AD06" : "nearbyRestaurants\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Nearby Restaurants",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Nearby Restaurants\/Nearby Restaurants.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/jnardon\/nearbyRestaurants",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "3240AD0BD95C214F8146591F0DD25C6B66E7AD06"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/enjoei\/enjoei-ios.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "78BE0C603C773CF889A4702765C464B5CFE2B3B7"
+    }
+  ]
+}

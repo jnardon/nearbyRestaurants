@@ -1,0 +1,94 @@
+{
+   "restaurants":[
+      {
+         "id":1,
+         "name":"outback",
+         "briefDescription":"We are an Australian-inspired steakhouse restaurant beloved worldwide.",
+         "defaultPhoto":"https://lh6.googleusercontent.com/-e-3mmMa-bqA/AAAAAAAAAAI/AAAAAAAACFI/qpqLdECO9t8/s0-c-k-no-ns/photo.jpg",
+         "todayVotes":2,
+         "isWinner":false,
+         "chosenThisWeek": false,
+         "location":{
+                  "cityName":"Porto Alegre",
+                  "subLocality":"São João",
+                  "latitude":15.2,
+                  "longitude":17.6
+          }
+      },
+      {
+         "id":2,
+         "name":"mc donalds",
+         "briefDescription":"McDonald's is an American hamburger and fast food restaurant chain.",
+         "defaultPhoto":"https://lh5.googleusercontent.com/-avTHbIvvjKY/AAAAAAAAAAI/AAAAAAAAAoY/XbY3XEWyohs/s0-c-k-no-ns/photo.jpg",
+         "todayVotes":3,
+         "isWinner":false,
+         "chosenThisWeek": false,
+         "location":{
+                  "cityName":"Porto Alegre",
+                  "subLocality":"Partenon",
+                  "latitude":15.2,
+                  "longitude":17.6
+        }
+      },
+      {
+         "id":3,
+         "name":"subway",
+         "briefDescription":"Is an American fast food restaurant that primarily sells submarine sandwiches and salads.",
+         "defaultPhoto":"https://lh6.googleusercontent.com/-VimHYSdmDx0/AAAAAAAAAAI/AAAAAAAAAVs/YM_kaFErzPI/s0-c-k-no-ns/photo.jpg",
+         "todayVotes":4,
+         "isWinner":true,
+         "chosenThisWeek": false,
+         "location":{
+                  "cityName":"Porto Alegre",
+                  "subLocality":"Higienopolis",
+                  "latitude":15.2,
+                  "longitude":17.6
+         }
+       },
+       {
+         "id":4,
+         "name":"starbucks",
+         "briefDescription":"Is an American coffee company and coffeehouse chain.",
+         "defaultPhoto":"https://lh4.googleusercontent.com/-IpBltZ2knJs/AAAAAAAAAAI/AAAAAAAAilc/UUnfkQDNLkg/s0-c-k-no-ns/photo.jpg",
+         "todayVotes":0,
+         "isWinner":false,
+         "chosenThisWeek": true,
+         "location":{
+                  "cityName":"Porto Alegre",
+                  "subLocality":"Bom fim",
+                  "latitude":15.2,
+                  "longitude":17.6
+         }
+       },
+       {
+         "id":5,
+         "name":"burger king",
+         "briefDescription":"Burger King is an American global chain of hamburger fast food restaurants.",
+         "defaultPhoto":"https://lh5.googleusercontent.com/-9S1xjYZdK4E/AAAAAAAAAAI/AAAAAAAAIhU/UejKR8SqPUI/s0-c-k-no-ns/photo.jpg",
+         "todayVotes":0,
+         "isWinner":false,
+         "chosenThisWeek": false,
+         "location":{
+                  "cityName":"Porto Alegre",
+                  "subLocality":"Independencia",
+                  "latitude":15.2,
+                  "longitude":17.6
+         }
+       },
+       {
+         "id":6,
+         "name":"pizza hut",
+         "briefDescription":"Pizza Hut is an American restaurant chain and international franchise.",
+         "defaultPhoto":"https://lh3.googleusercontent.com/-GGHvgo2I0FU/AAAAAAAAAAI/AAAAAAAAAO4/u4njwnhi0Rs/s0-c-k-no-ns/photo.jpg",
+         "todayVotes":0,
+         "isWinner":false,
+         "chosenThisWeek": false,
+         "location":{
+                  "cityName":"Porto Alegre",
+                  "countryName":"Brazil",
+                  "latitude":15.2,
+                  "longitude":17.6
+         }
+       }
+    ]
+}

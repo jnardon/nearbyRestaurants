@@ -1,0 +1,17 @@
+{
+    "id":2,
+    "name":"mc donalds",
+    "avaragePrice":15,
+    "briefDescription":"McDonald's is an American hamburger and fast food restaurant chain.",
+    "description":"McDonald's (or simply as McD) is an American hamburger and fast food restaurant chain. It was founded in 1940 as a barbecue restaurant operated by Richard and Maurice McDonald. In 1948, they reorganized their business as a hamburger stand, using production line principles. The first McDonald's franchise using the arches logo opened in Phoenix, Arizona in 1953. Businessman Ray Kroc joined the company as a franchise agent in 1955 and subsequently purchased the chain from the McDonald brothers. Based in Oak Brook, Illinois, McDonald's confirmed plans to move its global headquarters to Chicago by early 2018.",
+    "defaultPhoto":"https://lh5.googleusercontent.com/-avTHbIvvjKY/AAAAAAAAAAI/AAAAAAAAAoY/XbY3XEWyohs/s0-c-k-no-ns/photo.jpg",
+    "todayVotes":3,
+    "isWinner":false,
+    "chosenThisWeek": false,
+    "location":{
+        "cityName":"Porto Alegre",
+        "subLocality":"Partenon",
+        "latitude":15.2,
+        "longitude":17.6
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id":3,
+    "name":"subway",
+    "avaragePrice":10,
+    "briefDescription":"Is an American fast food restaurant that primarily sells submarine sandwiches and salads.",
+    "description":"Subway IP Inc., (doing business as Subway) is a privately held American fast food restaurant franchise that primarily sells submarine sandwiches (subs) and salads. It is owned and operated by Doctor's Associates, Inc., doing business as Subway IP, Inc. Subway is one of the fastest-growing franchises in the world, with 44,882 restaurants in 112 countries and territories as of December 27, 2016. The United States alone has 26,646 outlets. It is the largest single-brand restaurant chain and the largest restaurant operator in the world.",
+    "defaultPhoto":"https://lh6.googleusercontent.com/-VimHYSdmDx0/AAAAAAAAAAI/AAAAAAAAAVs/YM_kaFErzPI/s0-c-k-no-ns/photo.jpg",
+    "todayVotes":4,
+    "isWinner":true,
+    "chosenThisWeek": false,
+    "location":{
+        "cityName":"Porto Alegre",
+        "subLocality":"Higienopolis",
+        "latitude":15.2,
+        "longitude":17.6
+    }
+}

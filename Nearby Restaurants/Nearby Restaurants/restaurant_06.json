@@ -1,0 +1,17 @@
+{
+    "id":6,
+    "name":"pizza hut",
+    "avaragePrice":20,
+    "briefDescription":"Pizza Hut is an American restaurant chain and international franchise.",
+    "description":"Pizza Hut was founded in June 1958 by two Wichita State University students, brothers Dan and Frank Carney, as a single location in Wichita, Kansas.[2] Before closing in 2015, the oldest continuously operating Pizza Hut was in Manhattan, Kansas, in a shopping and tavern district known as Aggieville near Kansas State University. The first Pizza Hut restaurant east of the Mississippi was opened in Athens, Ohio in 1966 by Lawrence Berberick and Gary Meyers.",
+    "defaultPhoto":"https://lh3.googleusercontent.com/-GGHvgo2I0FU/AAAAAAAAAAI/AAAAAAAAAO4/u4njwnhi0Rs/s0-c-k-no-ns/photo.jpg",
+    "todayVotes":0,
+    "isWinner":false,
+    "chosenThisWeek": false,
+    "location":{
+        "cityName":"Porto Alegre",
+        "countryName":"Brazil",
+        "latitude":15.2,
+        "longitude":17.6
+    }
+}
